@@ -1,4 +1,4 @@
-#!/path/to/tornado-example/venv/bin/python
+#!venv/bin/python
 
 '''web server. could exchange data between spec/esp/browser/robots
 '''
